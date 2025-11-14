@@ -348,6 +348,7 @@ deps_config := \
 	drivers/staging/comedi/Kconfig \
 	drivers/staging/wlan-ng/Kconfig \
 	drivers/staging/slicoss/Kconfig \
+	drivers/staging/rtl8814au/Kconfig \
 	drivers/staging/rtl8812au/Kconfig \
 	drivers/staging/Kconfig \
 	drivers/vservices/Kconfig.stacks \

@@ -4,5 +4,6 @@ kernel/drivers/char/rdbg.ko:
 kernel/drivers/media/platform/msm/dvb/adapter/mpq-adapter.ko:
 kernel/drivers/media/platform/msm/dvb/demux/mpq-dmx-hw-plugin.ko: kernel/drivers/media/platform/msm/dvb/adapter/mpq-adapter.ko
 kernel/drivers/media/usb/gspca/gspca_main.ko:
+kernel/drivers/staging/rtl8814au/8814au.ko:
 kernel/net/bridge/br_netfilter.ko:
 kernel/net/wireguard/wireguard.ko:

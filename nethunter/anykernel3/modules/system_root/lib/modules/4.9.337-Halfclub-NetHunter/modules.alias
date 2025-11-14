@@ -1,5 +1,20 @@
 # Aliases extracted from modules themselves.
 alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
 alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
+alias usb:v0BDAp8813d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v2001p331Ad*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0B05p1817d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0B05p1852d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0B05p1853d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v056Ep400Bd*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v056Ep400Dd*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v7392pA834d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v7392pA833d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0BDAp8813d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0E66p0026d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v2357p0106d*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v20F4p809Ad*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v20F4p809Bd*dc*dsc*dp*ic*isc*ip*in* 8814au
+alias usb:v0846p9054d*dc*dsc*dp*ic*isc*ip*in* 8814au
 alias rtnl-link-wireguard wireguard
 alias net-pf-16-proto-16-family-wireguard wireguard
