@@ -24,6 +24,8 @@ menuconfig STAGING
 
 if STAGING
 
+source "drivers/staging/rtl8812au/Kconfig"
+
 source "drivers/staging/slicoss/Kconfig"
 
 source "drivers/staging/wlan-ng/Kconfig"
